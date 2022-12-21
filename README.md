@@ -1,8 +1,8 @@
 ### Assignment 1
 Tasks Completed:
 * Created an API which takes pincode as a query parameter and returns the city and state as a result.
-* Created a Address Form which takes the input as Zipcode and automatically fills the City and State feilds coressponding to the code entered.
-* FInally Stored the Data submitted by the user in the database.
+* Created a Address Form which takes the input as Zipcode and automatically fills the City and State fields corresponding to the code entered.
+* Finally Stored the Data submitted by the user in the database.
 
 ### Prerequisites
 
