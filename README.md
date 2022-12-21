@@ -32,12 +32,22 @@ docker start MongoTest
 ```
 
 ### Run Project Using
+
+Create Virtual environment (optional)
+```bash
+virtualenv env
+```
+```bash
+source env/bin/activate
+```
+
+Make sure to be in Forms folder
 ```bash
 pip install -r requirements.txt
 ```
 
 ```bash
-python3 app.y
+python3 app.py
 ```
 
 Visit the Address Form at 
